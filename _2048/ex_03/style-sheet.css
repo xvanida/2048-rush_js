@@ -1,0 +1,16 @@
+#board{
+     position: absolute;
+     background-color: #E3D4C5;
+     top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+
+    margin: auto;
+}
+.square-container{
+     background-color: #F0E5DA;
+     margin-left: 15px;
+     margin-top:12px;
+     display: inline-block;
+}

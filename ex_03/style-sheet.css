@@ -1,0 +1,25 @@
+#board{
+     position: relative;
+     background-color: #F0EED1;
+     border-style: solid 2px #B3B089;
+}
+
+#mind-master{
+     position: relative;
+     background-color: #B3B089;
+     top: 25%;
+     left: 45%;
+
+     /*-webkit-transform-origin: 0% 50%;*/
+
+}
+
+
+.mind-container {
+     position:absolute;
+     top:33%;
+     left:33%;
+     /*top:-100px;*/
+     background-color: white;
+     overflow-x: visible;
+}
